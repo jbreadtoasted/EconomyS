@@ -2,7 +2,7 @@ name: EconomyAirport
 version: "2.0.4"
 author: onebone
 api:
-- 3.0.0-ALPHA7
+- 3.0.0-ALPHA10
 
 main: onebone\economyairport\EconomyAirport
 depend: [EconomyAPI]
